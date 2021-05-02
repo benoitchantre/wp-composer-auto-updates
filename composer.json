@@ -1,0 +1,25 @@
+{
+  "name": "benoitchantre/automatic-updates-config",
+  "description": "Enables minor core auto updates even when DISALLOW_FILE_MODS is set to true.",
+  "type": "wordpress-muplugin",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Benoît Chantre",
+      "email": "mail@benoitchantre.com",
+      "homepage": "https://benoitchantre.com",
+      "role": "Developer"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "updates",
+    "composer"
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "suggest": {
+	"roots/bedrock-autoloader": "Bedrock Autoloader enables standard plugins to be required just like must-use plugins."
+  }
+}
