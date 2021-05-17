@@ -16,7 +16,7 @@ Example of a `composer.json` to manage a WordPress site with Composer:
 {
   "require": {
     "php": ">=7.0",
-    "benoitchantre/wp-auto-updates-for-vcs": "^1.0",
+    "benoitchantre/wp-composer-auto-updates": "^0.1",
     "composer/installers": "^1.0", 
     "johnpbloch/wordpress": "^5.5", 
     "roots/bedrock-autoloader": "^1.0"
