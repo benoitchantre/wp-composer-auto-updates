@@ -1,3 +1,5 @@
+[![Coding Standards](https://github.com/benoitchantre/wp-composer-auto-updates/actions/workflows/coding-standards.yml/badge.svg)](https://github.com/benoitchantre/wp-composer-auto-updates/actions/workflows/coding-standards.yml)
+
 # WP Composer Auto Updates
 
 WordPress MU-Plugin to enable maintenance and security updates when the site uses version control and `DISALLOW_FILE_MODS`.
