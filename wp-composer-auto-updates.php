@@ -8,6 +8,8 @@
  * Author URI:          https://benoitchantre.com
  * License:             GPL-3.0+
  * License URI:         http://www.gnu.org/licenses/gpl-3.0.txt
+ *
+ * @package             WP_Composer_Auto_Updates
  */
 
 namespace BenoitChantre\WP_Composer_Auto_Updates;

@@ -19,7 +19,20 @@
 	"require": {
 		"php": ">=7.0"
 	},
+	"require-dev": {
+		"dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+		"wp-coding-standards/wpcs": "^2.3",
+		"phpcompatibility/phpcompatibility-wp": "^2.1"
+	},
+	"scripts": {
+		"phpcs": [
+			"./vendor/bin/phpcs"
+		],
+		"phpcbf": [
+			"./vendor/bin/phpcbf"
+		]
+	},
 	"suggest": {
-		"roots/bedrock-autoloader": "Bedrock Autoloader enables standard plugins to be required just like must-use plugins."
+	  "roots/bedrock-autoloader": "Bedrock Autoloader enables standard plugins to be required just like must-use plugins."
 	}
 }
