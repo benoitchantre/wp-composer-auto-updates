@@ -47,8 +47,6 @@
 	https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/wiki/Customizable-sniff-properties -->
 	<config name="minimum_supported_wp_version" value="5.5"/>
 
-
-
 	<!-- For CI, don't fail on warnings -->
 	<config name="ignore_warnings_on_exit" value="1"/>
 </ruleset>
