@@ -1,2 +1,4 @@
 .DS_Store
+.phpcs.xml
+phpcs.xml
 vendor/
