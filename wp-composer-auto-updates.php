@@ -2,7 +2,7 @@
 /**
  * Plugin Name:         WP Composer Auto Updates
  * Description:         Enables maintenance and security updates for WordPress when VCS and DISALLOW_FILE_MODS are used.
- * Version:             0.2.0
+ * Version:             1.0.0
  * Requires at least:   5.5
  * Author:              Benoît Chantre
  * Author URI:          https://benoitchantre.com
