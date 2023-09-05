@@ -31,7 +31,7 @@ if ( in_array( wp_get_environment_type(), array( 'local', 'development' ), true 
  * @param string $context          The usage context.
  * @return bool
  */
-function allow_file_mod_for_automatic_updater( bool $file_mod_allowed, string $context ) : bool {
+function allow_file_mod_for_automatic_updater( bool $file_mod_allowed, string $context ): bool {
 	if ( 'automatic_updater' === $context ) {
 		return true;
 	}
