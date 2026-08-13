@@ -17,10 +17,10 @@ Example of a `composer.json` to manage a WordPress site with Composer:
 ```json
 {
   "require": {
-    "php": ">=7.0",
-    "benoitchantre/wp-composer-auto-updates": "^1.0",
-    "composer/installers": "^1.0", 
-    "johnpbloch/wordpress": "^5.5", 
+    "php": ">=7.2",
+    "benoitchantre/wp-composer-auto-updates": "^2.0",
+    "composer/installers": "^1.0",
+    "johnpbloch/wordpress": "^5.5",
     "roots/bedrock-autoloader": "^1.0"
   },
   "extra": {
