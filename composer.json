@@ -39,6 +39,6 @@
 		]
 	},
 	"suggest": {
-	  "roots/bedrock-autoloader": "Bedrock Autoloader enables standard plugins to be required just like must-use plugins."
+		"roots/bedrock-autoloader": "Bedrock Autoloader enables standard plugins to be required just like must-use plugins."
 	}
 }
